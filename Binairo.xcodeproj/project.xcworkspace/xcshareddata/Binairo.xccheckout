@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EA1CD702-877F-4347-8F37-B2F2AB137C0E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Binairo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E6F59CC10A1924596A18E2BC5344A150E2E4731E</key>
+		<string>https://github.com/GertjanReynaert/Binairo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Binairo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E6F59CC10A1924596A18E2BC5344A150E2E4731E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GertjanReynaert/Binairo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E6F59CC10A1924596A18E2BC5344A150E2E4731E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6F59CC10A1924596A18E2BC5344A150E2E4731E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Binairo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
