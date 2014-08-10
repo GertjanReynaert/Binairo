@@ -7,13 +7,3 @@
 //
 
 import Foundation
-
-class CheckerEngine {
-    func checkRows() {}
-    
-    func checkColumns() {}
-    
-    func checkIdenticalRows() {}
-    
-    func checkIdenticalColumns()s {}
-}
